@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Food Background.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "platformer-level-1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 117.16666666666666,
+                "y": 315.66666666666663
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/alagh/120_section/StarterPlatformer/assets",
+    "last.imagePath": "C:/Users/alagh/Downloads/kenney_pixel-platformer-food-expansion/til",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 120,
+    "openFiles": [
+        "Food Background.tsx",
+        "dine-dash-level1.tmx"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Food Background.tsx",
+        "dine-dash-level1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
